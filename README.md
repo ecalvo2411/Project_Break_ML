@@ -1,7 +1,7 @@
 # Project Break Machine Learning
 
 ## Objetivo del PB:
-- Idenntificar los principales factores de riesgo de Stroke
+- Identificar los principales factores de riesgo de Stroke
 - Crear un modelo de Machine Learning para predicir las probabilidades de sufrir Stroke.
 
 ## Características Dataset:
@@ -10,7 +10,9 @@
 - Publicado en [Kaggle](https://www.kaggle.com/datasets/fedesoriano/stroke-prediction-dataset)
 
 ## Solución de objetivos:
-- 
+- La solución principal se dará mediante un EDA donde buscaremos las principales relaciones entre los distintos factores de riesgo y la probabilidad de sufrir Stroke.
+- Luego procederemos a incluir estos datos ya analizados en los modelos empleados para encontrar las probabilidas de sufrir Stroke.
+
 ## Estructura del Repositorio:
 
 ```python
@@ -28,10 +30,13 @@
 
 ## Instrucciones de Reproducción:
 
+- Primero Cargamos el dataset con sus respectivas entradas de datos. Ejecutamos los distintos análisis univariante, bivariante y multivariante. Luego procedemos a ejecutar los distintos modelos de procesado de datos con los modelos supervisados, ya que nosotros ingresaremos los datos a analizar. 
+
+
 ## Resultados de los Objetivos:
 
 ## Autores:
 - - Este proyecto ha sido desarrollado por el equipo de tres integrantes:
-    -   👤 Iván Gómez – @betaivan-10
-    - 	👤 Eric Calvo – @ecalvo2411
-    -	👤 Marcos Martinez– @mmsbi02
+    -   👤 Iván Gómez – [@betaivan-10](https://github.com/BetaIvan-10)
+    - 	👤 Eric Calvo – [@ecalvo2411](https://github.com/ecalvo2411)
+    -	👤 Marcos Martinez– [@mmsbi02](https://github.com/mmsbi02)
