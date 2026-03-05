@@ -10,12 +10,12 @@
 - Publicado en [Kaggle](https://www.kaggle.com/datasets/fedesoriano/stroke-prediction-dataset)
 
 ## Solución de objetivos:
-
+- 
 ## Estructura del Repositorio:
 
 ├── src/                # El directorio source que contiene el resto de carpetas
-│   ├── data/           # Dataset Utilizado
-│   ├── img/            # Imágenes utilizadas 
+│   ├── data/           # Dataset utilizado 
+│   ├── img/            # Imágenes utilizadas en el proyecto
 │   ├── models/         # Modelos guardados en formato pickle o joblib
 │   ├── notebooks/      # Notebooks de desarrollo y pruebas
 ├── main.ipynb          # Notebook final
