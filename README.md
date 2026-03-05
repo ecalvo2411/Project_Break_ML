@@ -13,6 +13,7 @@
 - 
 ## Estructura del Repositorio:
 
+```python
 ├── src/                # El directorio source que contiene el resto de carpetas
 │   ├── data/           # Dataset utilizado 
 │   ├── img/            # Imágenes utilizadas en el proyecto
@@ -21,7 +22,7 @@
 ├── main.ipynb          # Notebook final
 ├── Presentacion.pdf    # Documento soporte de la exposición en vídeo
 ├── README.md           # Fichero README resumen del proyecto
-
+```
 ## Tecnologías Utilizadas:
 - 
 
