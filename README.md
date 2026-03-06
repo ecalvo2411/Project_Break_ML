@@ -41,8 +41,6 @@
 - Primero Cargamos el dataset con sus respectivas entradas de datos. Ejecutamos los distintos análisis univariante, bivariante y multivariante. Luego procedemos a ejecutar los distintos modelos de procesado de datos con los modelos supervisados, ya que nosotros ingresaremos los datos a analizar. 
 
 
-## Resultados de los Objetivos:
-
 ## Autores:
 - - Este proyecto ha sido desarrollado por el equipo de tres integrantes:
     -   👤 Iván Gómez – [@betaivan-10](https://github.com/BetaIvan-10)
