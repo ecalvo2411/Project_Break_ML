@@ -26,7 +26,15 @@
 ├── README.md           # Fichero README resumen del proyecto
 ```
 ## Tecnologías Utilizadas:
-- 
+- Python 
+- Jupyter Notebook
+- Pandas
+- NumPy
+- Matplotlib
+- Seaborn
+- Scikit-learn
+- Análisis Exploratorio de Datos (EDA)
+- Regresión Logística
 
 ## Instrucciones de Reproducción:
 
@@ -40,3 +48,11 @@
     -   👤 Iván Gómez – [@betaivan-10](https://github.com/BetaIvan-10)
     - 	👤 Eric Calvo – [@ecalvo2411](https://github.com/ecalvo2411)
     -	👤 Marcos Martinez– [@mmsbi02](https://github.com/mmsbi02)
+
+## Conclusiones 
+
+Tras comparar ambos modelos, la regresión logística resulta ser el modelo más adecuado para este proyecto. Aunque el modelo alternativo puede obtener buenas métricas globales, la regresión logística ofrece una mayor capacidad para detectar los casos reales de ictus y además es más interpretable, lo cual es especialmente importante en aplicaciones médicas. Por ello, se considera el modelo más apropiado para un sistema de predicción de riesgo de ictus.
+
+
+
+
